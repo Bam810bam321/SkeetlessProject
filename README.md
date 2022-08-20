@@ -1,1 +1,4 @@
-# gideon project
+################### Skeetless V1 Project ###################
+#                        Change Log:                       #
+#                   Updated to latest CSGO                 #
+############################################################
