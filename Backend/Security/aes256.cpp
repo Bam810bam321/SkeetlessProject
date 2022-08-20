@@ -5,7 +5,7 @@
 
 #define FE(x)  (((x) << 1) ^ ((((x)>>7) & 1) * 0x1b))
 #define FD(x)  (((x) >> 1) ^ (((x) & 1) ? 0x8d : 0))
-
+ 
 #define KEY_SIZE   32
 #define NUM_ROUNDS 14
 
